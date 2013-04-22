@@ -1,4 +1,4 @@
-# debug-css.css – v1.0
+# debug.css – v1.0
 
 Debug CSS is a small, standalone, stylesheet to help visually identify invalid and potentially inaccessible markup.
 
