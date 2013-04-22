@@ -69,12 +69,9 @@ a[target]{
 /**
  * Ensure any lists only contain `li`s as children.
  */
-ul,
-ol{
-    > *:not(li){
-        outline:5px solid red;
-    }
-}
+ul > *:not(li),
+ol > *:not(li) {
+  outline: 5px solid red; }
 
 
 /**
