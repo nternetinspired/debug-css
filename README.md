@@ -10,7 +10,7 @@ I simply broke out Inuit's _debug.scss and implemented it as a stand-alone style
 
 Simply include a link to the stylesheet in the head (i.e. before the </head>) of your document, like so:
 
-    <pre><link href="https://github.com/nternetinspired/debug-css/debug.css" media="all" rel="stylesheet" type="text/css" /></pre>
+    <link href="https://github.com/nternetinspired/debug-css/debug.css" media="all" rel="stylesheet" type="text/css" />
 
 If there are potential issues, you'll see some more colour on your site:
 
