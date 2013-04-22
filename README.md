@@ -1,6 +1,6 @@
 # debug.css – v1.0
 
-Debug CSS is a small, standalone, stylesheet to help visually identify invalid and potentially inaccessible markup.
+Debug CSS is a small, standalone, stylesheet to help visually identify invalid and potentially inaccessible markup, *during development*.
 
 It based entirely upon a portion of the excellent [inuit.css](https://github.com/csswizardry/inuit.css/) (a powerful little framework designed for _serious_ developers) by [Harry Roberts](https://github.com/csswizardry), and all credit should go to him.
 
@@ -18,6 +18,8 @@ If there are potential issues, you'll see some more colour on your site:
  * Yellow       ==      double-check
 
 You can then simply check with your browser tools to see why that colour style is being applied.
+
+**Heads up: Don't forget to remove the link to debug.css once you've finished debugging.**
 
 ## Credits
 
