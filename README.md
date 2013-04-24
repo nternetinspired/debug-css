@@ -6,7 +6,7 @@ It based entirely upon a portion of the excellent [inuit.css](https://github.com
 
 I simply broke out Inuit's _debug.scss and implemented it as a stand-alone stylesheet so that it can be quickly and easily linked to from any project to aid in fast visual debugging.
 
-**Usage**
+##Usage
 
 Simply include a link to the stylesheet in the head (i.e. before the </head>) of your document, like so:
 
