@@ -14,7 +14,7 @@ Simply include a link to the stylesheet in the head (i.e. before the </head>) of
 
 **Heads up: Don't forget to remove the link to debug.css once you've finished debugging.**
 
-Alternatively, create a new bookmark and copy the following code into the URL field to create a bookmarklet to quickly debug any page:
+Alternatively, create a bookmark and copy the following code into the URL field to create a bookmarklet for quick debugging:
 
     javascript:(function(){var e=document.createElement("link");e.setAttribute("href","https://rawgithub.com/nternetinspired/debug-css/master/debug.css");e.setAttribute("rel","stylesheet");e.setAttribute("type","text/css");e.setAttribute("media","all");document.head.appendChild(e)})();
 
