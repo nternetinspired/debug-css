@@ -27,7 +27,9 @@ You can then simply check with your browser tools to see why that colour style i
 
 ## Credits
 
-All credit should go to [inuit.css](https://github.com/csswizardry/inuit.css/) creator, [Harry Roberts](https://github.com/csswizardry).
+Credit should go to [inuit.css](https://github.com/csswizardry/inuit.css/) creator, [Harry Roberts](https://github.com/csswizardry) for the original _debug.scss in that framework.
+
+Thanks also to [@pjkix](https://github.com/pjkix) for adding the bookmarklet above.
 
 ## License
 
