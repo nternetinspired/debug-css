@@ -14,7 +14,7 @@ Simply include a link to the stylesheet in the head (i.e. before the </head>) of
 
 Or use the following bookmarklet directly from your browser to test any page
 
-<a href="javascript:(function(){var e=document.createElement("link");e.setAttribute("href","https://rawgithub.com/nternetinspired/debug-css/master/debug.css");e.setAttribute("rel","stylesheet");e.setAttribute("type","text/css");e.setAttribute("media","all");document.head.appendChild(e)})();">Drag me to your toolbar!</a>
+    javascript:(function(){var e=document.createElement("link");e.setAttribute("href","https://rawgithub.com/nternetinspired/debug-css/master/debug.css");e.setAttribute("rel","stylesheet");e.setAttribute("type","text/css");e.setAttribute("media","all");document.head.appendChild(e)})();
 
 If there are potential issues, you'll see some more colour on your site:
 
