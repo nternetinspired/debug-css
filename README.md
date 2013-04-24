@@ -12,7 +12,7 @@ Simply include a link to the stylesheet in the head (i.e. before the </head>) of
 
     <link href="https://rawgithub.com/nternetinspired/debug-css/master/debug.css" media="all" rel="stylesheet" type="text/css" />
 
-Or use the following bookmarklet directly from your browser to test any page
+Or create a new bookmark and copy the following code into the URL field to create a bookmarklet to quickly debug any page:
 
     javascript:(function(){var e=document.createElement("link");e.setAttribute("href","https://rawgithub.com/nternetinspired/debug-css/master/debug.css");e.setAttribute("rel","stylesheet");e.setAttribute("type","text/css");e.setAttribute("media","all");document.head.appendChild(e)})();
 
