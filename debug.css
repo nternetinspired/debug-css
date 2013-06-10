@@ -149,3 +149,14 @@ input[type=submit][value]{
 [id]{
 	outline:5px solid yellow;
 }
+
+/**
+ * Definition lists should only contain DT and DD elements
+ */
+dl > * {
+    outline:5px solid red;
+}
+dl > dt,
+dl > dd {
+    outline:none;
+}
